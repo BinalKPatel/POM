@@ -10,15 +10,12 @@
 
 	<name>POM_Test</name>
 	<url>http://maven.apache.org</url>
-
-		<properties>
-        <maven.compiler.source>1.8</maven.compiler.source> (3)
-        <maven.compiler.target>1.8</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    
-
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		 <maven.compiler.source>1.6</maven.compiler.source>
+                  <maven.compiler.target>1.6</maven.compiler.target>
 	</properties>
-
+		
 	<dependencies>
 
 		<dependency>
