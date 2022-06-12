@@ -105,5 +105,5 @@
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
-	
+	</plugins>
 </project>
