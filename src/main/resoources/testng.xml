@@ -11,8 +11,7 @@
   <test thread-count="5" name="Free Crm Application Test Cases">
     <classes>
     	<class name="com.project.qa.testcases.LoginPageTest"/>
-      <class name="com.project.qa.testcases.HomePageTest"/>
-      <class name="com.project.qa.testcases.ContactsPageTest"/>
+     
       
     </classes>
   </test> <!-- testng -->
